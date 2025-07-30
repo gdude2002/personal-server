@@ -1,0 +1,102 @@
+- type: text
+  text: >-
+    # Welcome!
+
+    This is <@1400043487927205952>'s personal server, a space for friends, professional contacts, and curious folks to hang out.
+    If you know <@1400043487927205952>, then you'll likely already understand that this is a progressive space - 
+    so please remember that when interacting here!
+
+    This server has a set of roles you can use to hide particular types of content.
+    For more information, see <id:customize>.
+
+- type: rules
+  text: "# Our Rules"
+  rules:
+    "1. Follow Discord's Rules": >-
+      We're obliged to enforce Discord's rules - that means that everyone must follow the 
+      [Terms of Service](https://discord.com/terms) and [Community Guidelines](https://discord.com/terms/guidelines).
+
+    "2. Try to Speak English": >-
+      While we understand that not everyone speaks native-level English, it is the primary
+      language used here, and we can't moderate messages written in other languauges.
+
+      Please try your best, and feel free to use translation tools if you need to - we won't 
+      tolerate anyone bullying others for their level of English.
+
+    "3. Legal and Ethical Content Only": >-
+      Everything shared here must be legal, legitimate and appropriate. Don't share anything that
+      breaks Discord's rules or terms, or promote anything unethical (like generative AI tools or NFTs).
+
+      This doesn't include things like queer self-expression, disability rights advocacy, or
+      other progressive topics that tend to be banned by authoritarian governments.
+
+    "4. Respect Other Users": >-
+      Respect each other's differences and account for folks' accessibility needs:
+
+      - No bigotry - including (but not limited to) racism, body shaming, ableism, sexism, classism, transphobia, pluralphobia, and queerphobia.
+      
+      - Keep topics appropriate - all public channels are "safe for work", meaning you shouldn't post overtly sexual content, gore, violence, or abuse content.
+
+      - Keep interactions appropriate - No sexual advances, threats, blackmail, piracy, or any other problematic behaviour.
+
+      - Respect [PluralKit](https://pluralkit.me/) users, and only use the bot for [plurality](https://moderation.wiki/a/plurality) or self-identity purposes, or as a mental health aid.
+
+      - Don't post anything with fast-moving animations or flashing colours, or anything else likely to be an issue for photosensitive users.
+
+    "5. Respect This Space": >-
+      Respect this Discord server and do your part to keep things running smoothly:
+
+      - Don't spam under any circumstances.
+
+      - Check that you're in the right channel before posting, and read the channel descriptions.
+
+      - Don't dump multiple memes into an off-topic channel - use them as part of a discussion.
+
+- type: text
+  text: >-
+    # Reporting and Appealing
+
+    To report a message or user, tap-and-hold or right-click on it/them, go to the "Apps" menu, and select the reporting command.
+    You can also send a DM to <@109040264529608704> or one of the <@&1400044221313847356>, or ping the <@&1400044221313847356> in a
+    channel with an ongoing problem.
+
+    You can appeal moderation actions using this link: <https://appeal.gg/X7B8Z3JPzD>
+
+- type: embed
+  text: "# Roles"
+
+  embeds:
+    - color: 0x5865F2
+      description: >-
+        - <@&1400043622648516710> - That's <@109040264529608704>, the server owner.
+
+        - <@&1400044221313847356> - This server's moderation team. They handle general moderation tasks when they're around.
+
+        - <@&1400044632041062503> - Trusted folks that <@109040264529608704> knows personally.
+
+- type: links
+  text: >-
+    # Links
+
+    To invite people to this server, use this link: <TODO>
+
+  embeds:
+    - color: 0x5865F2
+      title: General Links
+      description: >-
+        - [Main Website](https://gareth-coles.dev)
+        
+    - color: 0x5865F2
+      title: Projects and Sites
+      description: >-
+        - [ArchivesMC](https://archivesmc.com)
+        
+        - [Community Management Community](https://cm-community.org)
+        
+        - [IBS Tools](https://ibs.tools)
+        
+        - [Kord Extensions](https://kordex.dev)
+
+        - [Moderation Wiki](https://moderation.wiki)
+
+        - [Rephasing](https://rephas.ing)
