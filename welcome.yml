@@ -52,6 +52,8 @@
 
       - Don't dump multiple memes into an off-topic channel - use them as part of a discussion.
 
+      - Report any rule-breaking or otherwise problematic behaviour - don't wait for someone else to do it.
+
 - type: text
   text: >-
     # Reporting and Appealing
@@ -61,6 +63,9 @@
     channel with an ongoing problem.
 
     You can appeal moderation actions using this link: <https://appeal.gg/X7B8Z3JPzD>
+
+    Please remember that <@109040264529608704> and the moderation team have the final say over any moderation decisions, and they
+    may not always be able to resolve your complaints.
 
 - type: embed
   text: "# Roles"
